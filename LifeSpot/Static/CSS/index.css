@@ -1,4 +1,4 @@
-﻿/* Комбинированный селектор - применяется ко всем элементам */
+/* Комбинированный селектор - применяется ко всем элементам */
 header,footer,aside,body,.navbar,.video-container{
     font-family: "Helvetica 65 Medium", sans-serif;
 }
