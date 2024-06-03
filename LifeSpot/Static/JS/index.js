@@ -47,12 +47,6 @@ function filterContent() {
     }
 }
 
-let sessionLog = function logSession(session) {
-    for (let result of session) {
-        console.log(result)
-    }
-
-}
 
 function inputParseFunction() {  
         return document.getElementsByTagName('input')[0].value.toLowerCase();
